@@ -7,8 +7,13 @@ First install the script using :-
 (python 3.6 + required)
 `python setup.py install`
 Then 
+
 `import core`
+
+
 `core.execution()`
+
+
 will run the script
 The script is interactiv and you just need to follow all the steps as per mentiond during execution.
 
