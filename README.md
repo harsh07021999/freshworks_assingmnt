@@ -5,7 +5,11 @@ This is the assingment as part of selection criteria for the internship role at 
 
 First install the script using :-
 (python 3.6 + required)
+
+
 `python setup.py install`
+
+
 Then 
 
 `import core`
