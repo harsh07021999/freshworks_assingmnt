@@ -3,8 +3,9 @@ This is the assingment as part of selection criteria for the internship role at 
 
 ## How to run
 
-First install the script using :-
-(python 3.6 + required)
+First clone the repository then for
+installtion of the script in the root directory
+(python 3.6 + required) :-
 
 
 `python setup.py install`
